@@ -1,0 +1,25 @@
+.navbar {
+    background-color: black;
+}
+.logo{
+    color:white;
+    padding-left: 2rem;
+    text-decoration: none;
+}
+.logo:hover {
+    text-decoration: none;
+    color: rgb(143, 143, 143); 
+}
+li {
+    list-style: none;
+    color: white;
+    padding: 2rem;
+}
+.list {
+    text-decoration: none;
+    color: white;
+}
+.list:hover {
+    text-decoration: none;
+    color: rgb(143, 143, 143); 
+}
